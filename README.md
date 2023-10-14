@@ -5,7 +5,7 @@ Software Engginer
 My name is Prima Nugraha, I am a Software Engineer with experience in using PHP, Java, and Python. I often use modern and popular existing framework technologies such as Laravel Framework, Codeigniter, Flask, Lumen, and many more. I am also experienced in creating microservice-based applications by utilizing REST API technology. Additionally, I have experience in making Artificial Intelligence and Deep Learning using Convolutional Neural Networks with the Tensorflow framework.
 
 * 🌍  I'm based in Jakarta
-* 🖥️  See my Portofolio at [Web Profile](https://primanugraha.com/)
+* 🖥️  See my Portofolio at [primanugraha.com](https://primanugraha.com/)
 * 🖥️  See my Project at [Deteksi Objek Dan Jenis Burung Menggunakan Convolutional Neural Network Dengan Arsitektur Inception Resnet-V2](http://https://prima-openapi.herokuapp.com/)
 * ✉️  You can contact me at [prima.jsx@gmail.com](mailto:prima.jsx@gmail.com)
 
